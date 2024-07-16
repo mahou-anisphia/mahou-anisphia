@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-<a href="https://github.com/mahou-anisphia/mahou-anisphia/blob/master/LICENCE">
+<a href="https://github.com/mahou-anisphia/mahou-anisphia/blob/main/LICENSE">
 <img alt="Licence" src="https://img.shields.io/badge/license-BY--NC-brightgreen?logo=BY-NC"/>
 </a>
 </a>
