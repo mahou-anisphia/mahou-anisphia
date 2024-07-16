@@ -19,8 +19,6 @@
 
 - I'm a 20 years old developer.
 - I have a passion for cloud computing.
-- Please visit my blogs at: eldrie.xyz
-- Also take a look at my profile: https://mahou-anisphia.github.io/
 
 
 ## 📈 **Github Stats:**
@@ -59,8 +57,8 @@
 
 <!-- Links of Definitions -->
 
-[linkedin]: https://www.linkedin.com/in/duc-sang
-[gmail]: mailto:ducsang@gmail.com
-[stackoverflow]: https://stackoverflow.com/users/your-profile
+[linkedin]: [https://www.linkedin.com/in/duc-sang](https://www.linkedin.com/in/truong-duc-sang-27a566259/)
+[gmail]: mailto:ducsang2004@gmail.com
+<!-- [stackoverflow]: https://stackoverflow.com/users/your-profile -->
 [github]: https://github.com/mahou-anisphia
-[twitter]: https://twitter.com/mahou_anisphia
+<!-- [twitter]: https://twitter.com/mahou_anisphia -->
