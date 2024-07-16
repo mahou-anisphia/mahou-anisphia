@@ -21,7 +21,7 @@
 - I'm a 20 years old developer.
 - I have a passion for cloud computing.
 - Currently developing API with Express
-- 
+- Mastering the Copy & Paste technique
 
 ## 📈 **Github Stats:**
 
