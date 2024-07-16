@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=mahou-anisphia&show_icons=true" height="150" alt="stats graph" />
+   <img src="https://github-readme-stats.vercel.app/api?username=mahou-anisphia&show_icons=true&theme=dark" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahou-anisphia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
