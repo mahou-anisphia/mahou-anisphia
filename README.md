@@ -22,9 +22,6 @@
 - Please visit my blogs at: eldrie.xyz
 - Also take a look at my profile: https://mahou-anisphia.github.io/
 
-### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
-
----
 
 ## 📈 **Github Stats:**
 
