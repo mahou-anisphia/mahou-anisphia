@@ -19,7 +19,7 @@
 
 - I'm a 20 years old developer.
 - I have a passion for cloud computing.
-- Currently developing cloud - based JS web applications.
+- 
 - 
 
 ## 📈 **Github Stats:**
