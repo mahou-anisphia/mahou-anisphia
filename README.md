@@ -51,8 +51,9 @@
 [<img src="https://img.shields.io/badge/LinkedIn-duc--sang-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin] </br>
 [<img src="https://img.shields.io/badge/Gmail-ducsang@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail] </br>
 [<img src="https://img.shields.io/badge/Github-mahou--anisphia-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github] </br>
-[<img src="https://img.shields.io/badge/Stackoverflow-mahou--anisphia-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow] </br>
-[<img src="https://img.shields.io/badge/Twitter-@mahou_anisphia-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter] </br>
+<!-- [<img src="https://img.shields.io/badge/Stackoverflow-mahou--anisphia-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow] </br>
+[<img src="https://img.shields.io/badge/Twitter-@mahou_anisphia-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter] -->
+ </br>
 
 </br>
 
