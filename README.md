@@ -4,7 +4,8 @@
 
 <p align="center">
 <a href="https://github.com/mahou-anisphia/mahou-anisphia/blob/master/LICENCE">
-<img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen&label=LICENCE&logo=BY-NC"/>
+<img alt="Licence" src="https://img.shields.io/badge/license-BY--NC-brightgreen?logo=BY-NC"/>
+</a>
 </a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=mahou-anisphia&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/mahou-anisphia/mahou-anisphia?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
