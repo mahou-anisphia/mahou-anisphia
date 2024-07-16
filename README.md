@@ -15,7 +15,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM5dmlzaTl5OWlvbW8yaW9qcjZmdGhlMWZiNG4zMXh2azVhdnh2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76JR4yqX2AQTJTgrcj/giphy-downsized-large.gif">
 </br>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - I'm a 20 years old developer.
 - I have a passion for cloud computing.
