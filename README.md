@@ -20,7 +20,7 @@
 
 - I'm a 20 years old developer.
 - I have a passion for cloud computing.
-- Currently developing API with Express
+- Currently researching about platform for cellular IoT devices.
 - Mastering the Copy & Paste technique
 
 ## 📈 **Github Stats:**
