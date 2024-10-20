@@ -19,9 +19,9 @@
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - I'm a 20 years old developer.
-- I have a passion for cloud computing.
+- Master of Copy & Paste technique
 - Currently researching about platform for cellular IoT devices.
-- Mastering the Copy & Paste technique
+- 
 
 ## 📈 **Github Stats:**
 
