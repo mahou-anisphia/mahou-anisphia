@@ -21,7 +21,7 @@
 - I'm a 20 years old developer.
 - Master of Copy & Paste technique
 - Currently researching about platform for cellular IoT devices.
-- 
+- Something amazing is being built ~ Chiyu Lab
 
 ## 📈 **Github Stats:**
 
