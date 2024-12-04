@@ -82,7 +82,7 @@
 <!-- Links of Definitions -->
 
 [linkedin]: [https://www.linkedin.com/in/duc-sang](https://www.linkedin.com/in/truong-duc-sang-27a566259/)
-[gmail]: mailto:ducsang2004@gmail.com
+[gmail]: mailto:ducsangtruong2004@gmail.com
 <!-- [stackoverflow]: https://stackoverflow.com/users/your-profile -->
 [github]: https://github.com/mahou-anisphia
 <!-- [twitter]: https://twitter.com/mahou_anisphia -->
