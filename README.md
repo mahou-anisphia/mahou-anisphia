@@ -39,7 +39,7 @@
 </br>
 
 ## 🛠️ **Languages & Tools:**
-## 🛠️ **Languages & Tools:**
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://aws.amazon.com" target="_blank">
