@@ -21,7 +21,7 @@
 - I'm a 21 years old developer.
 - Master of Copy & Paste technique.
 - Currently an IoT device tester & full stack web developer.
-- Something amazing is being built ~ Chiyu Lab.
+- Something amazing is being built ~ Chiyu Lab & Zelene Platform.
 
 ## 📈 **Github Stats:**
 
