@@ -21,7 +21,7 @@
 
 - I'm a 21 years old developer.
 - Master of Copy & Paste technique.
-- Currently an IoT solution architect & full stack web developer.
+- Currently an indie developer.
 - Developing modern web-based applications
 
 ## 📈 **Github Stats:**
