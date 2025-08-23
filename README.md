@@ -22,7 +22,7 @@
 - I'm a 21 years old developer.
 - Master of Copy & Paste technique.
 - Currently an indie developer.
-- Developing modern web-based applications
+- Developing modern web & mobile application
 
 ## 📈 **Github Stats:**
 
