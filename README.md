@@ -20,9 +20,9 @@
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - I'm a 21 years old developer.
-- Master of Copy & Paste technique.
-- Currently an indie developer.
-- Developing modern web & mobile application
+- Experimenting with modern TypeScript Stacks while building enterprise platform at Viettel.
+- Building personal little product.
+- Hosting a home lab & Minecraft sercver for friends.
 
 ## 📈 **Github Stats:**
 
