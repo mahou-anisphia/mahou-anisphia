@@ -22,7 +22,7 @@
 - I'm a 21 years old developer.
 - Experimenting with modern TypeScript Stacks while building enterprise platform at Viettel.
 - Building personal little product.
-- Hosting a home lab & Minecraft sercver for friends.
+- Enjoying self hosting little-home-cloud and Minecraft server alongside
 
 ## 📈 **Github Stats:**
 
