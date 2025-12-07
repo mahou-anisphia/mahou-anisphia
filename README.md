@@ -39,87 +39,42 @@
 
 </br>
 
-## 🛠️ **Languages & Tools:**
+## 🛠️ Tech Stack
 
+Building type-safe, full-stack applications with modern TypeScript:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  </a>
-  <a href="https://vuejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
-  </a>
-  <a href="https://react.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" alt="React">
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" alt="C++">
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  </a>
-  <a href="https://azure.microsoft.com" target="_blank">
-    <img src="https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-  </a>
-  <a href="https://www.atlassian.com/software/confluence" target="_blank">
-    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
-  </a>
-  <a href="https://code.visualstudio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code" alt="VSCode">
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
-  <a href="https://www.linux.org" target="_blank">
-    <img src="https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  </a>
-  <a href="https://vercel.com" target="_blank">
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  </a>
+<div align="center">
   <a href="https://www.typescriptlang.org" target="_blank">
     <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  </a>
-  <a href="https://www.prisma.io" target="_blank">
-    <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-  </a>
-  <a href="https://nestjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
   </a>
   <a href="https://nextjs.org" target="_blank">
     <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   </a>
+  <a href="https://react.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  </a>
+  <a href="https://www.prisma.io" target="_blank">
+    <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+  </a>
   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <a href="https://trpc.io" target="_blank">
+    <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC">
   </a>
-  <a href="https://www.jenkins.io" target="_blank">
-    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-  </a>
-  <a href="https://www.mongodb.com" target="_blank">
-    <img src="https://img.shields.io/badge/mongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  </a>
-  <a href="https://cloud.google.com" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+</div>
+
+<div align="center">
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
   <a href="https://github.com/features/actions" target="_blank">
     <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
   </a>
-  <a href="https://vitejs.dev" target="_blank">
-    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  </a>
-  <a href="https://cassandra.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra">
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </a>
 </div>
-
 
 
 ## 🌐 **Connect with me:** ️
