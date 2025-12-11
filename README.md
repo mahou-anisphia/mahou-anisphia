@@ -3,9 +3,10 @@
 
 <br>
 
-<img align="right" alt="Coding" width="350" style="margin-left: 20px; margin-bottom: 20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM5dmlzaTl5OWlvbW8yaW9qcjZmdGhlMWZiNG4zMXh2azVhdnh2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76JR4yqX2AQTJTgrcj/giphy-downsized-large.gif">
 
 ## About This Journey
+
+<img align="right" alt="Coding" width="350" style="margin-left: 20px; margin-bottom: 20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM5dmlzaTl5OWlvbW8yaW9qcjZmdGhlMWZiNG4zMXh2azVhdnh2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76JR4yqX2AQTJTgrcj/giphy-downsized-large.gif">
 
 Like Princess Anisphia—born into privilege but without magic—I found myself managing enterprise platforms without the foundational skills I needed.
 
