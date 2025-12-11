@@ -11,7 +11,7 @@ Like Princess Anisphia—born into privilege but without magic—I found myself 
 
 Instead of accepting it, I'm rebuilding from the ground up.
 
-**Current Mission:** Transform from PM to Software Engineer through systematic learning and deliberate practice.
+**Current Mission:** Transform from AI-Driven Software Engineer to Software Engineer through systematic learning and deliberate practice.
 
 **The Goal:** Build things that matter, with skills that transfer anywhere in the world.
 
