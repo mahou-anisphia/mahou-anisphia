@@ -12,7 +12,7 @@ Like Princess Anisphia—born into privilege but without magic—I found myself 
 
 Instead of accepting it, I'm rebuilding from the ground up.
 
-**Current Mission:** Transform from AI-Driven Software Engineer to Software Engineer through systematic learning and deliberate practice.
+**Current Mission:** Transform from AI-assisted delivery to First-Principles Engineering.
 
 **The Goal:** Build things that matter, with skills that transfer anywhere in the world.
 
