@@ -21,12 +21,11 @@ I refused to accept that limitation. I am rebuilding my skillset from the ground
 ### **Core Principles**
 
 ```typescript
-const journey = {
-  from: "Managing without understanding",
-  to: "Building with confidence",
-  method: "Fundamentals first, no shortcuts",
-  deadline: "Oct 2026 back to HCMC",
-  commitment: "3 hours daily, 1 commit minimum",
+const context = {
+  background: "CS degree, early management at major telecom",
+  problem: "Credentials opened doors; skills didn't match the rooms",
+  decision: "Rebuild fundamentals rather than coast on positioning",
+  why: "Because staff engineer > shallow all-in-one manager"
 };
 ```
 
