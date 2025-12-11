@@ -16,9 +16,6 @@ I found myself leading technical teams and winning awards, yet feeling the "tech
 
 **I am choosing to step down from the ivory tower.**
 
-Current Mission: Rejecting the comfort of early management to rebuild my engineering stack from First Principles.
-
-The Goal: To earn the title of "The Engineer I aspire to be", not through lineage or position, but through pure technical mastery.
 
 ---
 
