@@ -95,18 +95,6 @@ When not coding:
 
 ---
 
-## 💭 Current Mindset
-
-```
-Status: Rebuilding from fundamentals
-Mood: Uncomfortable (which means growing)
-Lesson: Thinking slower = thinking deeper
-Reality: Different paths, not better or worse
-Goal: International by 27, with skills that prove it
-```
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mahou-anisphia&style=flat-square&color=blue" alt="Profile views" />
 </div>
