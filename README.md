@@ -73,9 +73,9 @@ const journey = {
 
 When not coding:
 
-- 🏠 Self-hosting homelab (learning DevOps through pain)
-- ⛏️ Running Minecraft server (understanding distributed systems via creepers)
-- 📖 Reading technical books in English (building transferable knowledge)
+- 🏠 Self-hosting homelab 
+- ⛏️ Running Minecraft server 
+- 📖 Reading technical blogs on the cutting edge stacks
 
 ---
 
