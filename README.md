@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="350" style="margin-left: 20px; margin-bottom: 20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM5dmlzaTl5OWlvbW8yaW9qcjZmdGhlMWZiNG4zMXh2azVhdnh2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76JR4yqX2AQTJTgrcj/giphy-downsized-large.gif">
 
-Like Anisphia, I was born into "royalty"—a CS Degree, a supportive family, winning national award, and early management success at a top enterprise (Viettel).
+Like Anisphia, I was born into "royalty"—a CS Degree, winning national award, and early management success at a top enterprise (Viettel).
 
 But having the **Title** isn't the same as having the **Magic**.
 
