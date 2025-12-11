@@ -45,16 +45,9 @@ const journey = {
   <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
 </div>
 
-**Learning Path:**
-
-- ✅ TypeScript fundamentals (years of experience)
-- 🔄 React without AI assistance (current focus)
-- 🔄 Spring Boot & Java (building alongside React)
-- 📋 System design & algorithms (queued)
-
 ---
 
-## 📚 Philosophy
+## 📚 What I believe in
 
 **On Learning:**
 
@@ -93,20 +86,6 @@ When not coding:
 
 ---
 
-## 🌍 The Vision
-
-**Short-term (8 weeks):** Complete Helldiver Campaign, build portfolio-ready projects
-
-**Mid-term (10 months):** Return to HCMC, join company with international standards
-
-**Long-term (2-3 years):** Transfer to Singapore/EU, work with world-class engineers
-
-**Why?** Because like Anisphia researching magic in a world that said she couldn't—I'm building engineering skills in an environment that said PM was enough.
-
-It's not about the destination. It's about proving that determination beats natural talent.
-
----
-
 ## 📫 Connect
 
 - **LinkedIn:** [duc-sang](https://www.linkedin.com/in/truong-duc-sang-27a566259/)
@@ -133,7 +112,7 @@ Goal: International by 27, with skills that prove it
 </div>
 
 <div align="center">
-  <sub>Last updated: December 2024</sub>
+  <sub>Last updated: December 2025</sub>
 </div>
 
 ---
