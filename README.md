@@ -1,9 +1,9 @@
 > _"I will become the magician I aspire to be."_  
 > — Princess Anisphia, **The Magical Revolution of the Reincarnated Princess**
 
-<div align="center">
-  <img alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM5dmlzaTl5OWlvbW8yaW9qcjZmdGhlMWZiNG4zMXh2azVhdnh2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76JR4yqX2AQTJTgrcj/giphy-downsized-large.gif">
-</div>
+<br>
+
+<img align="right" alt="Coding" width="350" style="margin-left: 20px; margin-bottom: 20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM5dmlzaTl5OWlvbW8yaW9qcjZmdGhlMWZiNG4zMXh2azVhdnh2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76JR4yqX2AQTJTgrcj/giphy-downsized-large.gif">
 
 ## About This Journey
 
