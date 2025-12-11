@@ -8,13 +8,13 @@
 
 <img align="right" alt="Coding" width="350" style="margin-left: 20px; margin-bottom: 20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM5dmlzaTl5OWlvbW8yaW9qcjZmdGhlMWZiNG4zMXh2azVhdnh2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76JR4yqX2AQTJTgrcj/giphy-downsized-large.gif">
 
-Like Princess Anisphia—born into privilege but without magic—I found myself managing enterprise platforms without the foundational skills I needed.
+Like Anisphia—born into royalty but without magic—I found myself managing enterprise platforms without the foundational computer science "magic" I needed to truly understand them.
 
-Instead of accepting it, I'm rebuilding from the ground up.
+I refused to accept that limitation. I am rebuilding my skillset from the ground up, treating engineering not as talent, but as a science to be researched and mastered.
 
 **Current Mission:** Transform from AI-assisted delivery to First-Principles Engineering.
 
-**The Goal:** Build things that matter, with skills that transfer anywhere in the world.
+**The Goal:** To pass the whiteboard test in a room where Copilot isn't allowed.
 
 ---
 
@@ -25,7 +25,7 @@ const journey = {
   from: "Managing without understanding",
   to: "Building with confidence",
   method: "Fundamentals first, no shortcuts",
-  deadline: "240 days until HCMC",
+  deadline: "Oct 2026 back to HCMC",
   commitment: "3 hours daily, 1 commit minimum",
 };
 ```
@@ -49,7 +49,7 @@ const journey = {
 
 **On Learning:**
 
-> "The difference between a dirt house, a tutorial house, and an original house is 9 months of deliberate practice."
+> "The difference between a Minecraft dirt house, a tutorial house, and an original house is 9 months of deliberate practice."
 
 **On Shortcuts:**
 
