@@ -8,24 +8,29 @@
 
 <img align="right" alt="Coding" width="350" style="margin-left: 20px; margin-bottom: 20px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM5dmlzaTl5OWlvbW8yaW9qcjZmdGhlMWZiNG4zMXh2azVhdnh2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76JR4yqX2AQTJTgrcj/giphy-downsized-large.gif">
 
-Like Anisphia—born into royalty but without magic—I found myself managing enterprise platforms without the foundational computer science "magic" I needed to truly understand them.
+Like Anisphia, I was born into "royalty"—a CS Degree, a supportive family, winning national award, and early management success at a top enterprise (Viettel).
 
-I refused to accept that limitation. I am rebuilding my skillset from the ground up, treating engineering not as talent, but as a science to be researched and mastered.
+But having the **Title** isn't the same as having the **Magic**.
 
-**Current Mission:** Transform from AI-assisted delivery to First-Principles Engineering.
+I found myself leading technical teams and winning awards, yet feeling the "tech ceiling"—managing systems I hadn't built with my own hands. I realized I was on a path to becoming a bureaucrat, not a Wizard.
 
-**The Goal:** To pass the whiteboard test in a room where Copilot isn't allowed.
+**I am choosing to step down from the ivory tower.**
+
+Current Mission: Rejecting the comfort of early management to rebuild my engineering stack from First Principles.
+
+The Goal: To earn the title of "The Engineer I aspire to be", not through lineage or position, but through pure technical mastery.
 
 ---
 
 ### **Core Principles**
 
 ```typescript
-const context = {
-  background: "CS degree, early management at major telecom",
-  problem: "Credentials opened doors; skills didn't match the rooms",
-  decision: "Rebuild fundamentals rather than coast on positioning",
-  why: "Because staff engineer > shallow all-in-one manager"
+const career_path = {
+  background: "CS Degree & Enterprise Management",
+  status: "rebooting...",
+  motto: "Titles are given. Skills are earned.",
+  objective: "The Engineer I aspire to be",
+  daily_grind: "Code > Slides",
 };
 ```
 
@@ -46,17 +51,17 @@ const context = {
 
 ## 📚 What I believe in
 
-**On Learning:**
+**On Privilege vs. Skill:**
 
-> "The difference between a Minecraft dirt house, a tutorial house, and an original house is 9 months of deliberate practice."
+> "A degree gets you into the room. An award gets you the job. But only deep engineering intuition keeps the server running at 3 AM."
 
-**On Shortcuts:**
+**On The Ceiling:**
 
-> "7/10 local job success means nothing if the knowledge doesn't transfer internationally."
+> "I hit a ceiling where my title outpaced my hands-on skills. I am breaking that ceiling by building the floor stronger."
 
 **On Growth:**
 
-> "Building without AI isn't about pride—it's about passing interviews in rooms where Claude isn't allowed."
+> "I am not learning to code to get a job. I am learning to code so I can eventually lead with true authority."
 
 ---
 
