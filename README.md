@@ -107,4 +107,4 @@ When not coding:
 
 ---
 
-_Inspired by a princess who researched magic without having any. Building software engineering skills without the typical CS background. Same spirit, different domain._
+_Inspired by a princess who researched magic without having any. Building real engineering depth beyond what any degree can teach. Same spirit, different domain._
