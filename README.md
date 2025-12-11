@@ -26,7 +26,7 @@ const career_path = {
   background: "CS Degree & Enterprise Management",
   status: "rebooting...",
   motto: "Titles are given. Skills are earned.",
-  objective: "The Engineer I aspire to be",
+  objective: "First Principles Engineer",
   daily_grind: "Code > Slides",
 };
 ```
