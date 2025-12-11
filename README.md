@@ -1,4 +1,3 @@
-# mahou-anisphia
 
 > _"I will become the magician I aspire to be."_  
 > — Princess Anisphia, **The Magical Revolution of the Reincarnated Princess**
