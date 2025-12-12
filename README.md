@@ -24,7 +24,7 @@ I found myself leading technical teams and winning awards, yet feeling the "tech
 ```typescript
 const career_path = {
   background: "CS Degree & Enterprise Management",
-  status: "rebooting...",
+  status: "Re-specializing",
   motto: "Titles are given. Skills are earned.",
   objective: "First Principles Engineer",
   daily_grind: "Code > Slides",
