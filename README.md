@@ -68,7 +68,7 @@ When not coding:
 
 - 🏠 Self-hosting homelab 
 - ⛏️ Running Minecraft server 
-- 📖 Reading technical blogs on the cutting edge stacks
+- 📖 Reading & writing technical blogs on the cutting edge stacks
 
 ---
 
