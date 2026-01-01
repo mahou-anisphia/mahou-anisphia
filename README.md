@@ -89,7 +89,6 @@ When not coding:
 
 - **LinkedIn:** [duc-sang](https://www.linkedin.com/in/truong-duc-sang-27a566259/)
 - **Email:** ducsangtruong2004@gmail.com
-- **Location:** Hanoi → HCMC (planned)
 - **Open to:** Collaborations, code reviews, conversations with ambitious builders
 
 ---
