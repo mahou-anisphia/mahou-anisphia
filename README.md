@@ -17,19 +17,6 @@ I found myself leading technical teams and winning awards, yet feeling the "tech
 **I am choosing to step down from the ivory tower.**
 
 
----
-
-### **Core Principles**
-
-```typescript
-const career_path = {
-  background: "CS Degree & Enterprise Management",
-  status: "Re-specializing",
-  motto: "Titles are given. Skills are earned.",
-  objective: "First Principles Engineer",
-  daily_grind: "Code > Slides",
-};
-```
 
 ---
 
@@ -43,22 +30,6 @@ const career_path = {
   <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
 </div>
-
----
-
-## 📚 What I believe in
-
-**On Privilege vs. Skill:**
-
-> "A degree gets you into the room. An award gets you the job. But only deep engineering intuition keeps the server running at 3 AM."
-
-**On The Ceiling:**
-
-> "I hit a ceiling where my title outpaced my hands-on skills. I am breaking that ceiling by building the floor stronger."
-
-**On Growth:**
-
-> "I am not learning to code to get a job. I am learning to code so I can eventually lead with true authority."
 
 ---
 
